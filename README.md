@@ -8,7 +8,7 @@
 
 #### Easy
 
-- [ ] https://leetcode.com/problems/is-subsequence/
+- [X] https://leetcode.com/problems/is-subsequence/
 - [ ] https://leetcode.com/problems/split-a-string-in-balanced-strings/
 - [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 - [ ] https://leetcode.com/problems/maximum-subarray/
