@@ -25,7 +25,7 @@
 
 #### Medium
 
-- [ ] https://leetcode.com/problems/validate-binary-search-tree/
+- [X] https://leetcode.com/problems/validate-binary-search-tree/
 
 
 ## Binary Search Exercises
